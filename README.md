@@ -29,7 +29,7 @@ O MIDI tem um teclado digitial com 9 botões, cada botão reproduzirá o som de 
 
 ## 📁 Acesso ao projeto
 
-[Veja o projeto final do curso em funcionamento](https://aluramidi-curso.vercel.app/).
+[Veja o projeto final do curso em funcionamento](https://gperazolli.github.io/aluraMidi-projeto/).
 
 Neste repositório você tem acesso a todo o material produzido no curso.
 
